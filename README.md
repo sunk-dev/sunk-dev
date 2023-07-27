@@ -7,5 +7,10 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunk-dev&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=sunk-dev&show_icons=true">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsk2342)](https://solved.ac/jsk2342/)
 </p>
+<div align="center">
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsk2342)](https://solved.ac/jsk2342)
+
+</div>
